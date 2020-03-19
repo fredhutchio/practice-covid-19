@@ -1,0 +1,26 @@
+---
+title: "Global COVID-19 analysis"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+These data represent XXX
+and are available through an R package.
+You can learn more at the [website for the package](https://ramikrispin.github.io/coronavirus/index.html),
+as well as the [GitHub repository](https://github.com/CSSEGISandData/COVID-19).
+
+Load the data:
+
+```{r}
+library(coronavirus)
+
+data("coronavirus")
+```
+
+Note that you need to use `install.packages("coronavirus")`
+the first time you use the package on a computer,
+and every time you would like to receive updated data
+(the repository is updated daily).

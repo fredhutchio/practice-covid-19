@@ -6,6 +6,11 @@ Tidy version of Johns Hopkins data: https://github.com/RamiKrispin/coronavirus
 
 original Johns Hopkins https://github.com/CSSEGISandData/COVID-19
 
+Rami's dashboard:
+https://ramikrispin.github.io/coronavirus_dashboard/#summary
+
+https://github.com/RamiKrispin/coronavirus_dashboard
+
 ## United States data:
 
 https://covidtracking.com/api/states/daily
