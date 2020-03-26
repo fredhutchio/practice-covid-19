@@ -11,6 +11,8 @@ https://ramikrispin.github.io/coronavirus_dashboard/#summary
 
 https://github.com/RamiKrispin/coronavirus_dashboard
 
+https://github.com/eeholmes/CoV19
+
 ## United States data:
 
 https://covidtracking.com/api/states/daily
