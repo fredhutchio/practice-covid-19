@@ -13,6 +13,8 @@ https://github.com/RamiKrispin/coronavirus_dashboard
 
 https://github.com/eeholmes/CoV19
 
+https://www.academicdatascience.org/covid
+
 ## United States data:
 
 https://covidtracking.com/api/states/daily
