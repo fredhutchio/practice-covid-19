@@ -7,8 +7,11 @@ please see the [Fred Hutch Biomedical Data Science Wiki](https://sciwiki.fredhut
 
 This repository focuses on data from the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University,
 representing continuously updated [global COVID-19 data](https://github.com/CSSEGISandData/COVID-19) from a wide variety of sources.
+Rami Krispin maintains a project that continuously updates a [tidy version of the Johns Hopkins data](https://github.com/RamiKrispin/coronavirus);
+the exercises in this repository will focus on this tidy dataset.
 
-Rami Krispin maintains a project that continuously updates a [tidy version of the Johns Hopkins data](https://github.com/RamiKrispin/coronavirus).
+We've included challenge exercises and suggestions for developing larger-scale projects for both [R](R) and [Python](Python).
+Please see the READMEs for each directory to get started.
 
 ## Other data and reference sources
 
