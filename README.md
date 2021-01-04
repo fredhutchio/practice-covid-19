@@ -1,26 +1,17 @@
 # Practice data analysis - COVID-19
 
-## Global data:
+This repository includes resources and examples for scientific researchers interested in improving their developing coding skills.
+These materials are maintained by the training and community team at Fred Hutchinson Cancer Research Center.
+For more information on data analysis and computing at Fred Hutch,
+please see the [Fred Hutch Biomedical Data Science Wiki](https://sciwiki.fredhutch.org).
 
-Tidy version of Johns Hopkins data: https://github.com/RamiKrispin/coronavirus
+This repository focuses on data from the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University,
+representing continuously updated [global COVID-19 data](https://github.com/CSSEGISandData/COVID-19) from a wide variety of sources.
 
-original Johns Hopkins https://github.com/CSSEGISandData/COVID-19
+Rami Krispin maintains a project that continuously updates a [tidy version of the Johns Hopkins data](https://github.com/RamiKrispin/coronavirus).
 
-Rami's dashboard:
-https://ramikrispin.github.io/coronavirus_dashboard/#summary
+## Other data and reference sources
 
-https://github.com/RamiKrispin/coronavirus_dashboard
-
-https://github.com/eeholmes/CoV19
-
-https://www.academicdatascience.org/covid
-
-## United States data:
-
-https://covidtracking.com/api/states/daily
-
-Kairsten's notebook https://github.com/kairstenfay/data-viz/blob/master/covid-19/COVID-19.ipynb
-
-## Kaggle
-
-https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/
+- [United States daily tracking](https://covidtracking.com/api/states/daily)
+- [Allen Institude for AI COVID-19 Open Research Dataset Challenge](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/)
+- [Academic Data Science Alliance COVID-19 Resources](https://academicdatascience.org/covid)

@@ -1,6 +1,6 @@
 ---
 title: "Global COVID-19 analysis"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
