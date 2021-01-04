@@ -6,8 +6,7 @@ Resources for Python practice using COVID-19 data include:
 
 These materials are most appropriate if you've completed [Intro to Python](https://fredhutchio.github.io/python_intro/)
 from [fredhutch.io](http://www.fredhutch.io).
-The notebook repository called [`practice-covid-19-python-intro.ipynb`]
-(practice-covid-19-python-intro.ipynb)
+The notebook repository called [`practice-covid-19-python-intro.ipynb`](practice-covid-19-python-intro.ipynb)
 includes instructions on downloading the [tidy version of the Johns Hopkins global data](https://github.com/RamiKrispin/coronavirus),
 followed by practice problems similar to those covered in the Intro to Python course materials.
 
