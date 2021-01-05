@@ -14,10 +14,10 @@ To prepare for work on this project,
 we recommend creating a new directory to hold all files associated with this project.
 You then have two options to obtain the practice problems:
 
-1. Click on [this link](practice-covid-19-python-intro.ipynb)
+1. Click on [this link](covid-19-python-intro.ipynb)
 to view the notebook's page on GitHub.
 Click on the button labeled "Raw" on the righthand side of the screen.
-Save the contents to a file named "practice-covid-19-python-intro.ipynb"
+Save the contents to a file named "covid-19-python-intro.ipynb"
 in your project directory.
 (Note: it may be easier to right-click on "Raw" and use the "Download linked file" option).
 Once the notebook has been downloaded,
@@ -28,10 +28,12 @@ You should be ready to download the data and proceed with the practice problems.
 2. Create a new notebook using the Jupyter interface
 (or whatever Python IDE you prefer).
 Copy content (code chunks, etc)
-from [this notebook](practice-covid-19-python-intro.ipynb)
+from [this notebook](covid-19-python-intro.ipynb)
 into your own copy.
 If you cannot view the notebook on GitHub using the previous link,
-try [this one](https://nbviewer.jupyter.org/github/fredhutchio/practice-covid-19/blob/master/Python/practice-covid-19-python-intro.ipynb).
+try [this one](https://nbviewer.jupyter.org/github/fredhutchio/practice-covid-19/blob/master/Python/covid-19-python-intro.ipynb).
+
+Answers for practice problems are available [here](solutions).
 
 ## Example projects
 
